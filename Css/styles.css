@@ -1,0 +1,75 @@
+body{
+    background-color: rgb(161, 161, 233);
+    text-align: center;
+}
+
+h1{
+    color: red;
+    font-size: 30px; 
+}
+
+h5{
+    font-size: 30px;
+}
+
+p{
+    font-size: 30px;
+}
+
+a{
+    font-size: px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+}
+
+.azul{
+    color: black;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    text-align: center;
+}
+
+.azul-1{
+    text-align: center;
+    font-size: 40px;
+}
+
+.verde{
+    color: green;
+}
+
+.fondo-aqua{
+    background-color: aqua;
+}
+
+#colores{ 
+    margin: 40px;
+    height: 90px;
+    width: 200px;
+    border: 1px dotted blue;
+    padding: 30px;
+    padding-right: 40px;
+    padding-bottom: 10px ;
+}
+
+ul{
+    list-style: none;
+    font-size: 25px;
+}
+
+.hab{
+padding: 200px;
+font-size: 30px;
+color: brown;
+}
+
+footer{
+    text-align: end;
+    color: black;
+    font-size: 45px;
+}
